@@ -1,30 +1,40 @@
-# 🔢 Adivina el Número Secreto
+# 💱 Conversor de Divisas en Tiempo Real
 
-Un juego web interactivo y divertido donde tendrás que adivinar un número secreto en la menor cantidad de intentos posibles. Desarrollado con JavaScript, HTML y CSS.
+Una aplicación Java que consulta una API de divisas y permite realizar conversiones monetarias en tiempo real con tasas de cambio actualizadas.
 
 ## ✨ Características
 
-- Interfaz de usuario moderna
-- Generación aleatoria de números secretos
-- Contador de intentos
+- **Conversión en tiempo real** entre múltiples divisas
+- **Consulta a API externa** con tasas de cambio actualizadas
+- **Interfaz de línea de comandos** intuitiva
+- **Soporte para las principales divisas:** USD, ARS, BRL, COP
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **HTML5** 
-- **CSS3**
-- **JavaScript** 
+- **Lenguaje:** Java 11+
+- **Librerías:** 
+  - Gson para parsing de JSON
+  - Java.NET para peticiones HTTP
+- **API:** [exchangerate-api]([https://www.exchangerate-api.com/](https://www.exchangerate-api.com/docs/java-currency-api))
 
-## 🎮 Cómo Jugar
+## 📋 Funcionalidades
 
-1. El sistema genera un número secreto aleatorio entre 1 y 100
-2. Ingresa tu número en el campo de texto
-3. Presiona "Adivinar" o la tecla Enter
-4. ¡Adivina en la menor cantidad de intentos posibles!
+- Conversión entre divisas principales
+- Actualización automática de tasas de cambio
+- Soporte para múltiples monedas
 
-## 📦 Instalación
+## 🚀 Cómo Usar
 
-1. Clonar el repositorio:
-2. Ejecutar el index.html
+# Clonar repositorio
+git clone https://github.com/RamiroDome1/conversor-divisas-java.git
+cd conversor-divisas-java
+
+# Compilar con Maven
+mvn clean compile
+
+# Ejecutar
+mvn exec:java -Dexec.mainClass="com.ramiro.ConversorDivisas"
+
 
 ## 👨‍💻 Autor
 
