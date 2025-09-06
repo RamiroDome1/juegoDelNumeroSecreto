@@ -10,9 +10,9 @@ Un juego web interactivo y divertido donde tendrás que adivinar un número secr
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Almacenamiento:** Local Storage del navegador
-- **Control de Versiones:** Git y GitHub
+- **HTML5** 
+- **CSS3**
+- **JavaScript** 
 
 ## 🎮 Cómo Jugar
 
