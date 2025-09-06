@@ -1,50 +1,40 @@
-# 💱 Conversor de Divisas en Tiempo Real
+# :1234: Adivina el Número Secreto
 
-Una aplicación Java que consulta una API de divisas y permite realizar conversiones monetarias en tiempo real con tasas de cambio actualizadas.
+Un juego web interactivo y divertido donde tendrás que adivinar un número secreto en la menor cantidad de intentos posibles. Desarrollado con JavaScript, HTML y CSS.
 
-## ✨ Características
+## :sparkles: Características
 
-- **Conversión en tiempo real** entre múltiples divisas
-- **Consulta a API externa** con tasas de cambio actualizadas
-- **Interfaz de línea de comandos** intuitiva
-- **Soporte para las principales divisas:** USD, ARS, BRL, COP
+- Interfaz de usuario moderna
+- Generación aleatoria de números secretos
+- Contador de intentos
 
-## 🛠️ Tecnologías Utilizadas
+## :tools: Tecnologías Utilizadas
 
-- **Lenguaje:** Java 11+
-- **Librerías:** 
-  - Gson para parsing de JSON
-  - Java.NET para peticiones HTTP
-- **API:** [exchangerate-api]([https://www.exchangerate-api.com/](https://www.exchangerate-api.com/docs/java-currency-api))
+- **HTML5** 
+- **CSS3**
+- **JavaScript** 
 
-## 📋 Funcionalidades
+## :video_game: Cómo Jugar
 
-- Conversión entre divisas principales
-- Actualización automática de tasas de cambio
-- Soporte para múltiples monedas
+1. El sistema genera un número secreto aleatorio entre 1 y 100
+2. Ingresa tu número en el campo de texto
+3. Presiona "Adivinar" o la tecla Enter
+4. ¡Adivina en la menor cantidad de intentos posibles!
 
-## 🚀 Cómo Usar
+## :package: Instalación
 
-# Clonar repositorio
-git clone https://github.com/RamiroDome1/conversor-divisas-java.git
-cd conversor-divisas-java
+1. Clonar el repositorio:
+2. Ejecutar el index.html
 
-# Compilar con Maven
-mvn clean compile
-
-# Ejecutar
-mvn exec:java -Dexec.mainClass="com.ramiro.ConversorDivisas"
-
-
-## 👨‍💻 Autor
+## :man_technologist: Autor
 
 **Ramiro Dome**  
 Estudiante de Licenciatura en Sistemas | Desarrollador Java Spring Boot
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ramiro-dome)
-- 💻 [GitHub](https://github.com/RamiroDome1)
-- 📧 domeramiro@gmail.com
+- :link: [LinkedIn](https://www.linkedin.com/in/ramiro-dome)
+- :computer: [GitHub](https://github.com/RamiroDome1)
+- :e_mail: domeramiro@gmail.com
 
 ---
 
-⭐ ¡Si te gustó este proyecto, deja una estrella en el repositorio!
+:star: ¡Si te gustó este proyecto, deja una estrella en el repositorio!
