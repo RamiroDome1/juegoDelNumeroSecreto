@@ -1,12 +1,12 @@
-# 🎭 Generador de Amigo Secreto
+# 🔢 Adivina el Número Secreto
 
-Una aplicación web interactiva que permite gestionar el sorteo de amigos secretos de manera fácil, justa y divertida. Desarrollada con JavaScript, HTML y CSS.
+Un juego web interactivo y divertido donde tendrás que adivinar un número secreto en la menor cantidad de intentos posibles. Desarrollado con JavaScript, HTML y CSS.
 
 ## ✨ Características
 
-- Interfaz de usuario simple e intuitiva
-- Agregar y gestionar múltiples participantes
-- Sorteo aleatorio garantizado
+- Interfaz de usuario moderna
+- Generación aleatoria de números secretos
+- Contador de intentos
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -14,11 +14,12 @@ Una aplicación web interactiva que permite gestionar el sorteo de amigos secret
 - **Almacenamiento:** Local Storage del navegador
 - **Control de Versiones:** Git y GitHub
 
-## 🚀 Cómo Usar
+## 🎮 Cómo Jugar
 
-1. Ingresar los nombres de los participantes en el campo de texto
-4. Hacer clic en el botón "Sortear" para realizar el emparejamiento aleatorio
-5. ¡Descubrir quién es tu amigo secreto!
+1. El sistema genera un número secreto aleatorio entre 1 y 100
+2. Ingresa tu número en el campo de texto
+3. Presiona "Adivinar" o la tecla Enter
+4. ¡Adivina en la menor cantidad de intentos posibles!
 
 ## 📦 Instalación
 
