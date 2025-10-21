@@ -33,7 +33,7 @@ Estudiante de Licenciatura en Sistemas | Desarrollador Java Spring Boot
 
 - :link: [LinkedIn](https://www.linkedin.com/in/ramiro-dome)
 - :computer: [GitHub](https://github.com/RamiroDome1)
-- :e_mail: domeramiro@gmail.com
+- :email: domeramiro@gmail.com
 
 ---
 
